@@ -35,5 +35,5 @@ if(timing=='p1'&&!p1[-1]==0){
   timep1[-1]-=1
 }else if(timing=='p1'&&p1[-1]==0{
   timep1[-1]=999
-})
+}
 }
